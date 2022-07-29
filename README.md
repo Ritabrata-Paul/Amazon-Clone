@@ -119,4 +119,4 @@ The following tools were used in the construction of the project:
 
 ---
 
-<h3 align="center"><b>Developed with :heart: by <a href="https://github.com/Yola21">Yash</a></b></h1>
+<h3 align="center"><b>Developed with :heart: by <a href="https://github.com/Ritabrata1169">Ritabrata</a></b></h1>
