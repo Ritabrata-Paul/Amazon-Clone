@@ -37,7 +37,7 @@
 ## Screenshots
 
 <p align="center">
-  <img alt="cases" src="https://github.com/Yola21/Amazon-Clone-App/blob/main/Screenshots/Screenshot%20(250).png">
+  <img alt="cases" src="https://github.com/Ritabrata-Paul/Amazon-Clone/blob/master/Project%20screenshot/1.PNG">
 </p>
 
 <p align="center">
