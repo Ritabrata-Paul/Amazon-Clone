@@ -38,8 +38,4 @@ app.post('/payments/create', async (request, response) => {
 
 // listen command
 
-exports.app = functions.https.onRequest(app)
-
-
-
-// http://localhost:5001/clone-e24da/us-central1/app
+exports.api = functions.https.onRequest(app)
