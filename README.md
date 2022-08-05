@@ -37,19 +37,19 @@
 ## Screenshots
 
 <p align="center">
+  <img alt="cases" src="https://github.com/Ritabrata-Paul/Amazon-Clone/blob/master/Project%20screenshot/4.PNG">
+</p>
+
+<p align="center">
   <img alt="cases" src="https://github.com/Ritabrata-Paul/Amazon-Clone/blob/master/Project%20screenshot/1.PNG">
 </p>
 
 <p align="center">
-  <img alt="cases" src="https://github.com/Yola21/Amazon-Clone-App/blob/main/Screenshots/Screenshot%20(251).png">
+  <img alt="cases" src="https://github.com/Ritabrata-Paul/Amazon-Clone/blob/master/Project%20screenshot/2.PNG">
 </p>
 
 <p align="center">
-  <img alt="cases" src="https://github.com/Yola21/Amazon-Clone-App/blob/main/Screenshots/Screenshot%20(252).png">
-</p>
-
-<p align="center">
-  <img alt="cases" src="https://github.com/Yola21/Amazon-Clone-App/blob/main/Screenshots/Screenshot%20(253).png">
+  <img alt="cases" src="https://github.com/Ritabrata-Paul/Amazon-Clone/blob/master/Project%20screenshot/4.PNG">
 </p>
 ---
 
